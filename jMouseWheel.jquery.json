@@ -1,0 +1,16 @@
+{
+    "name": "jMouseWheel",
+    "version": "1.0",
+    "title": "jMouseWheel",
+    "author": {
+        "name": "Trung-Hieu Le",
+        "url": "http://www.webtrunghieu.info/site/posts/handle-mouse-wheel-event-with-jquery-jmousewheel-plugin"
+    },
+    "licenses": {
+        "type": "AGPLv3",
+        "url": "http://www.gnu.org/licenses/agpl.txt"
+    },
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
