@@ -1,10 +1,17 @@
 {
     "name": "jmousewheel",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "title": "jMouseWheel",
+	"description" : "Support using mouse wheel event with jQuery instead of using the out of date traditional way",
+	"keywords": [
+		"mouse-wheel",
+		"event",
+		"jquery"
+	],
     "author": {
         "name": "Trung-Hieu Le",
-        "url": "http://www.webtrunghieu.info/site/posts/handle-mouse-wheel-event-with-jquery-jmousewheel-plugin"
+        "url": "http://www.webtrunghieu.info/site/posts/handle-mouse-wheel-event-with-jquery-jmousewheel-plugin",
+		"email": "letrunghieu.cse09@gmail.com"
     },
     "licenses": [
 		{
@@ -13,7 +20,6 @@
 		}
 	],
 	"homepage": "https://github.com/letrunghieu/jMouseWheel",
-    "download": "https://github.com/letrunghieu/jMouseWheel/tags",
     "dependencies": {
         "jquery": ">=1.6"
     }
